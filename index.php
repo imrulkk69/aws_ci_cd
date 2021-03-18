@@ -1,3 +1,3 @@
 <?php 
-  echo "Hello World! Foul Moudel & Foul PHP";
+  echo "Hello World! Hope it'll be a great day!";
 ?>
